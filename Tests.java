@@ -1,6 +1,8 @@
 import java.util.Random;
 
 public class Tests {
+    int o =0;
+    int k = 0;
     static int p=10;
     public static void main(String[] args) {
 
